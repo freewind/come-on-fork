@@ -1,2 +1,2 @@
-Hi, come and fork
+come and clone.
 
