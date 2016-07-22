@@ -1,1 +1,1 @@
-Hello, come and fork
+This is a test.
