@@ -1,1 +1,1 @@
-Hi,git
+This is a test.
